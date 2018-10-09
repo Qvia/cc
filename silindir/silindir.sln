@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 10
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "silindir", "silindir\silindir.csproj", "{9A5723C0-7D04-4A16-A6A4-1891A7717D16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A5723C0-7D04-4A16-A6A4-1891A7717D16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A5723C0-7D04-4A16-A6A4-1891A7717D16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A5723C0-7D04-4A16-A6A4-1891A7717D16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A5723C0-7D04-4A16-A6A4-1891A7717D16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C4B2770-B690-42D1-AE0A-91BBFC361CE4}
+	EndGlobalSection
+EndGlobal

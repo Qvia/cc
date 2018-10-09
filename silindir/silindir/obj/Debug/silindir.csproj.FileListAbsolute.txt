@@ -1,0 +1,10 @@
+C:\Users\Blade1\source\repos\silindir\silindir\bin\Debug\silindir.exe.config
+C:\Users\Blade1\source\repos\silindir\silindir\bin\Debug\silindir.exe
+C:\Users\Blade1\source\repos\silindir\silindir\bin\Debug\silindir.pdb
+C:\Users\Blade1\source\repos\silindir\silindir\obj\Debug\silindir.csprojResolveAssemblyReference.cache
+C:\Users\Blade1\source\repos\silindir\silindir\obj\Debug\silindir.Form1.resources
+C:\Users\Blade1\source\repos\silindir\silindir\obj\Debug\silindir.Properties.Resources.resources
+C:\Users\Blade1\source\repos\silindir\silindir\obj\Debug\silindir.csproj.GenerateResource.cache
+C:\Users\Blade1\source\repos\silindir\silindir\obj\Debug\silindir.csproj.CoreCompileInputs.cache
+C:\Users\Blade1\source\repos\silindir\silindir\obj\Debug\silindir.exe
+C:\Users\Blade1\source\repos\silindir\silindir\obj\Debug\silindir.pdb
