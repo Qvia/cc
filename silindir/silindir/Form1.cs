@@ -32,8 +32,9 @@ namespace silindir
             double r, sonuc;
             const double pi = 3.14;
             r = Convert.ToDouble(textBox1.Text);
-            sonuc=((4*pi)*r*r*r)/3;
+            sonuc=((5*pi)*r*r*r)/3;
             label3.Text = (sonuc.ToString());
+            
         }
     }
 }
